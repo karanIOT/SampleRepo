@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //MARK: - IBOutlets
+    
     @IBOutlet weak var axisSwitch: UISwitch!
     @IBOutlet weak var stackView: UIStackView!
     
